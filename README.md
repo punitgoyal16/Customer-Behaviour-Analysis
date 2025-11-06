@@ -16,7 +16,7 @@ The objective of this project is to:
 
 | Tool                                     | Purpose                                                 |
 | ---------------------------------------- | ------------------------------------------------------- |
-| **Python (Pandas, Matplotlib, Seaborn)** | Data cleaning, transformation, and exploratory analysis |
+| **Python (Pandas)**                      | Data cleaning, transformation, and exploratory analysis |
 | **SQL (PostgreSQL / MySQL)**             | Query-based analysis and business logic simulation      |
 | **Power BI**                             | Interactive data visualization and dashboard design     |
 | **Excel/CSV**                            | Source data format for ingestion and preprocessing      |
